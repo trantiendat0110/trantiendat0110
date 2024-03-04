@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trantiendat0110&label=Profile%20views&color=0e75b6&style=flat" alt="trantiendat0110" /> </p>
 
-- 🔭 I’m currently working on **C**
+- 🔭 I’m currently working on **Javacript**
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
